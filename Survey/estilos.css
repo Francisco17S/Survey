@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body{
+    background-image: url("Entrada.jpg");
+    background-position-x:center;
+    background-color: #a3a0a0;
+    }
+    .Registro-Encuesta{
+    width: 400px;
+    background:#da1616 ;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: rgb(255, 255, 255);
+    box-shadow: 7px 13px 37px #000;
+    }
+    .Registro-Encuesta h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+    }
+    .controles{
+    width: 100%;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #08660d;
+    font-family: "calibri";
+    font-size: 18px;
+    color: #fffefe;
+    } 
+    .Registro-Encuesta p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    }
+    .Registro-Encuesta a{
+    color: #ffffff;
+    text-decoration: none;
+    }
+    .Registro-Encuesta a:hover{
+    color: #ffffff;
+    text-decoration: underline;
+    }
+    .Registro-Encuesta .botones{
+    width: 100%;
+    background: #08660d;
+    border: none;
+    padding: 12px;
+    color: rgb(255, 255, 255);
+    margin:16px 0;
+    font-size:16px;
+    }
